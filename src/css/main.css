@@ -380,7 +380,7 @@ span.checkmark {
 .rm-reference-main div > strong {
   color: gray !important;
 }
-
+/* 
 @media (prefers-color-scheme: dark) {
   :root {
     --font-color: hsl(205, 0%, 98%);
@@ -408,4 +408,4 @@ span.checkmark {
   .bp3-overlay-backdrop {
     background-color: rgba(0, 0, 0, 0.7) !important;
   }
-}
+} */
